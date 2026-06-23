@@ -29,6 +29,9 @@ communication never bleed into one another.
 - **Public by default, private where it must be** — sensitive member and board
   data stay isolated from outward-facing work.
 
+For the full model of how our repositories are organized, see the
+[repository architecture charter](https://github.com/Agentic-Organisations-Collective/.github/blob/main/docs/repository-architecture.md).
+
 ## Get in touch
 
 Interested in the collective or in agentic organisation design? Open an issue in
